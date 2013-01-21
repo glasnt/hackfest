@@ -1,4 +1,3 @@
-
 $DebugPreference = "continue"
 $ErrorPreference = "stop"
 $s3cmd = "python c:\s3cmd\s3cmd"
@@ -33,7 +32,7 @@ function upload ($file, $rename="", $bucket="" ) {
 #Make Quotes
 out "Generating Quotes files..."
 
-#remove-item "$QuotesFolder\*"
+remove-item "$QuotesFolder\*"
 $counter = 0;
 $total = "lots" #(get-content $RawContent | measure-object -line).Lines
 $maxcompute = 300000
