@@ -1,0 +1,4 @@
+</ul></div></div></div><div id="footer"> 
+<a href="http://www.glasnt.com">Hacked by glasnt</a>
+<a href="http://csszengarden.com/?cssfile=http://www.leeenglestone.co.uk/zengarden/zengarden-sample.css">CSS by leeenglestone</a>
+</div></div></body></html>

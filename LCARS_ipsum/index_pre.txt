@@ -1,0 +1,54 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" ><head><title>LCARS Ipsum</title>
+<style><!--
+body{font-family:TNG, helvetica, arial, sans-serif;font-size:.7em;color:#fff;background-color:#000;margin:0}
+p{font-family:arial;margin-top:0;text-align:justify}
+h3{font-family:helvetica, arial, sans-serif;letter-spacing:1px;margin-bottom:0;color:orange}
+a:link{font-weight:700;text-decoration:none;color:orange}
+a:hover,a:active{text-decoration:underline;color:#9685BA}
+#container{margin:0;padding:0 175px 0 0}
+#intro{background:url(images/top2.gif) no-repeat top left;height:208px;min-width:470px;padding:0 0 0 50px}
+#pageHeader{margin-bottom:0}
+#pageHeader h1{margin-top:10px;width:219px;float:left}
+#pageHeader h2{width:200px;float:right}
+#quickSummary{background:transparent url(images/quicksummary1.gif) no-repeat top left;font-size:1.2em;clear:both;height:200px;padding-top:20px;padding-left:30px;padding-right:30px;width:162px;position:absolute;margin:0 10px 0 90px}
+#quickSummary p{font-family:helvetica, arial, sans-serif;font-size:.8em;text-align:center}
+#preamble{font-size:.9em;margin-left:320px;position:absolute;width:430px;padding:0 10px}
+#preamble h3{background:transparent url(images/enlightenment1.gif) no-repeat top left;line-height:23px;margin-bottom:5px}
+#supportingText{font-size:.9em;background:transparent url(images/content1.gif) no-repeat top left;padding-top:10px;margin-bottom:20px;margin-top:10px;width:920px}
+#supportingText h3{margin-bottom:5px;line-height:23px}
+#supportingText #explanation{padding-left:170px;padding-right:200px;padding-top:30px}
+#supportingText #explanation h3{background:transparent url(images/what1.gif) no-repeat top left;height:23px}
+#supportingText #requirements h3{background:transparent url(images/requirements1.gif) no-repeat top left;height:23px}
+#supportingText #benefits h3{background:transparent url(images/benefits1.gif) no-repeat top left;height:23px}
+#supportingText #participation{padding-left:170px;padding-right:400px;background:transparent url(images/federationlogo.gif) no-repeat 520px 20px;width:350px}
+#supportingText #participation h3{background:transparent url(images/participation1.gif) no-repeat top left;height:23px}
+#footer{background:transparent url(images/footer3.gif) no-repeat top left;clear:both;color:orange;text-align:center;padding-top:50px;position:absolute;left:0;height:50px;width:910px}
+#footer a:link,#footer a:visited{color:orange;margin-right:20px}
+#linkList{margin-left:500px;position:absolute;top:100px;left:340px}
+#linkList2{font:10px verdana, sans-serif;background:transparent url(paper-bg.jpg) top left repeat-y;margin-top:150px;width:130px;padding:10px}
+#linkList h3.select{background:transparent url(h3.gif) no-repeat top left;width:97px;height:16px;margin:10px 0 5px}
+#linkList h3.favorites{background:transparent url(h4.gif) no-repeat top left;width:60px;height:18px;margin:25px 0 5px}
+#linkList h3.archives{background:transparent url(h5.gif) no-repeat top left;width:57px;height:14px;margin:25px 0 5px}
+#linkList h3.resources{background:transparent url(h6.gif) no-repeat top left;width:63px;height:10px;margin:25px 0 5px}
+#linkList ul{width:142px;margin:0;padding:0}
+#linkList li{line-height:2.5ex;list-style-type:none;background:transparent url(images/button1.gif) no-repeat top left;display:block;padding-top:5px;height:30px;padding-left:5px;margin-bottom:5px;text-align:center}
+#linkList #lselect li{line-height:2.5ex;list-style-type:none;list-style-image:url(images/bullet1.gif);display:block;padding-top:5px}
+#linkList #larchives li{line-height:2.5ex;list-style-type:none;list-style-image:url(images/bullet2.gif);display:block;padding-top:5px}
+#linkList #lresources li{line-height:2.5ex;list-style-type:none;list-style-image:url(images/bullet3.gif);display:block;padding-top:5px}
+#pageHeader h1 span,#pageHeader h2 span,h3 span,#linkList h3.select span,#linkList h3.favorites span,#linkList h3.archives span,#linkList h3.resources span{display:none}
+#supportingText #requirements,#supportingText #benefits{padding-left:170px;padding-right:200px}
+#linkList li a:link,#linkList li a:visited{color:#000}
+
+--></style>
+<div id="container"><div id="intro"><div id="quickSummary"><p class="p1"><span><img src="images/lcarslogo.png"></span></p>
+</div><div id="preamble"><p class="p1"><span></br></br>
+<li> Download cache of <a href="http://www.chakoteya.net/NextGen/"> Star Trek Next Generation</a> scripts
+<li> Manipulate using Warp 9 <a href="http://en.wikipedia.org/wiki/Windows_PowerShell">Powershell</a> fu
+<li> Upload resulting quote files to <a href="http://support.beta.anchortrove.com/index.html">Anchor Trove</a>
+<li> ...
+<li> <a href="images/engage.gif" target="_blank">Engage!~</a></br><br/>
+<br/>Totally works best in IE. (stupid CSS...)
+</span></p></div></div>
+<div id="supportingText"><div id="explanation"><iframe name="quotes" width=550 height=400 frameBorder="0" target="landing.html" /></iframe>	</div>
+</div>
+<div id="linkList">	<div id="linkList2"><div id="lselect"><ul>		
